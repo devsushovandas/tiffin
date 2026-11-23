@@ -140,7 +140,7 @@
   },
   {
     "id": "k03",
-    "name": "Maa Ki Rasoi Bengali Bari",
+    "name": "Mayer Unun Bengali Bari",
     "cuisine": "Bengali",
     "pricePerTiffin": 150,
     "isVeg": false,
@@ -756,7 +756,7 @@
     "id": "k12",
     "name": "Odia Ghara Khana",
     "cuisine": "Odia",
-    "pricePerTiffin": 65,
+    "pricePerTiffin": 99,
     "isVeg": false,
     "rating": 4.0,
     "weeklyMenu": [
