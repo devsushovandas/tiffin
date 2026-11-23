@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tiffin</string>
+
+    <!-- Common -->
+    <string name="error_title">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="price_per_tiffin">₹%1$d / tiffin</string>
+    <string name="veg">Veg</string>
+    <string name="non_veg">Non-veg</string>
+    <string name="rating_content_description">Rated %1$s out of 5</string>
+
+    <!-- Kitchen list -->
+    <string name="kitchen_list_title">Home kitchens</string>
+    <string name="kitchen_list_empty_title">No kitchens yet</string>
+    <string name="kitchen_list_empty_body">There are no home kitchens delivering near you right now. Please check back later.</string>
+    <string name="kitchen_list_loading">Loading kitchens</string>
+
+    <!-- Kitchen detail -->
+    <string name="kitchen_detail_title">Kitchen</string>
+    <string name="kitchen_detail_loading">Loading kitchen</string>
+    <string name="weekly_menu">Weekly menu</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="status_trial_active">Trial active. ₹249 will be charged on %1$s.</string>
+    <string name="status_plan_active">Plan active since %1$s.</string>
+
+    <!-- Paywall -->
+    <string name="close">Close</string>
+    <string name="paywall_title">Start your Tiffin trial</string>
+    <string name="paywall_subtitle">Get a home-cooked tiffin delivered every day.</string>
+    <string name="paywall_charge_now">₹1 will be charged now.</string>
+    <string name="paywall_charge_later">₹249 will be charged on %1$s, 24 hours from now, and then every month until you cancel.</string>
+    <string name="paywall_pay_button">Pay ₹1 and start trial</string>
+    <string name="paywall_payment_failed">Payment could not be saved. Please try again.</string>
+
+    <!-- Debug-only simulation menu -->
+    <string name="debug_menu">Debug options</string>
+    <string name="simulate_normal">Simulate: normal</string>
+    <string name="simulate_empty">Simulate: empty</string>
+    <string name="simulate_error">Simulate: error</string>
+</resources>

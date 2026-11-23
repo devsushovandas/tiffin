@@ -1,0 +1,823 @@
+[
+  {
+    "id": "k01",
+    "name": "Annapurna Rasoi",
+    "cuisine": "North Indian",
+    "pricePerTiffin": 90,
+    "isVeg": true,
+    "rating": 4.5,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Dal Tadka",
+          "Jeera Rice",
+          "Aloo Gobi",
+          "Phulka (4)"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Rajma",
+          "Steamed Rice",
+          "Bhindi Fry"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Chole",
+          "Jeera Rice",
+          "Mix Veg",
+          "Phulka (4)"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Kadhi Pakora",
+          "Steamed Rice",
+          "Aloo Methi"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Dal Makhani",
+          "Matar Pulao",
+          "Lauki Sabzi",
+          "Phulka (4)"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Paneer Butter Masala",
+          "Jeera Rice",
+          "Boondi Raita"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Aloo Puri",
+          "Chana Masala",
+          "Sooji Halwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "name": "Amma's Kitchen",
+    "cuisine": "South Indian",
+    "pricePerTiffin": 80,
+    "isVeg": true,
+    "rating": 4.7,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Sambar",
+          "Steamed Rice",
+          "Beans Poriyal",
+          "Rasam"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Lemon Rice",
+          "Curd Rice",
+          "Potato Fry"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Vatha Kuzhambu",
+          "Steamed Rice",
+          "Cabbage Poriyal",
+          "Appalam"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Bisi Bele Bath",
+          "Curd Rice",
+          "Papad"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Mor Kuzhambu",
+          "Steamed Rice",
+          "Carrot Poriyal",
+          "Rasam"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Tomato Rice",
+          "Vegetable Kurma",
+          "Curd Rice"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Avial",
+          "Steamed Rice",
+          "Paruppu Payasam",
+          "Rasam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "name": "Maa Ki Rasoi Bengali Bari",
+    "cuisine": "Bengali",
+    "pricePerTiffin": 150,
+    "isVeg": false,
+    "rating": 4.6,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Shukto",
+          "Steamed Rice",
+          "Macher Jhol"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Moong Dal",
+          "Steamed Rice",
+          "Aloo Posto",
+          "Begun Bhaja"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Steamed Rice",
+          "Dimer Dalna",
+          "Cholar Dal"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Steamed Rice",
+          "Doi Maach",
+          "Masoor Dal",
+          "Jhinge Posto"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Steamed Rice",
+          "Chicken Kosha",
+          "Moong Dal"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Luchi (4)",
+          "Cholar Dal",
+          "Aloor Dom"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Steamed Rice",
+          "Kosha Mangsho",
+          "Basanti Pulao",
+          "Mishti Doi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "name": "Swaad Gujarati Thali",
+    "cuisine": "Gujarati",
+    "pricePerTiffin": 110,
+    "isVeg": true,
+    "rating": 4.4,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Gujarati Dal",
+          "Steamed Rice",
+          "Sev Tameta Nu Shaak",
+          "Rotli (4)"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Kadhi",
+          "Khichdi",
+          "Bhindi Shaak"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Undhiyu",
+          "Rotli (4)",
+          "Gujarati Dal",
+          "Steamed Rice"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Dal Dhokli",
+          "Batata Nu Shaak",
+          "Chaas"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Gujarati Dal",
+          "Steamed Rice",
+          "Ringan No Olo",
+          "Rotli (4)"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Thepla (4)",
+          "Chhundo",
+          "Aloo Sabzi"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Puri (4)",
+          "Shrikhand",
+          "Batata Nu Shaak",
+          "Dal Bhaat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "name": "Koshy's Home Meals",
+    "cuisine": "Kerala",
+    "pricePerTiffin": 160,
+    "isVeg": false,
+    "rating": 4.3,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Kerala Matta Rice",
+          "Fish Curry",
+          "Thoran"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Kerala Matta Rice",
+          "Sambar",
+          "Cabbage Thoran",
+          "Pappadam"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Appam (3)",
+          "Chicken Stew",
+          "Banana Chips"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Kerala Matta Rice",
+          "Moru Curry",
+          "Beans Thoran",
+          "Fish Fry"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Kerala Matta Rice",
+          "Egg Roast",
+          "Avial"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Puttu",
+          "Kadala Curry",
+          "Banana"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Kerala Matta Rice",
+          "Beef Ularthiyathu",
+          "Pulissery",
+          "Pappadam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "name": "Punjabi Tadka Ghar",
+    "cuisine": "Punjabi",
+    "pricePerTiffin": 130,
+    "isVeg": false,
+    "rating": 4.2,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Butter Chicken",
+          "Jeera Rice",
+          "Tandoori Roti (3)"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Dal Makhani",
+          "Steamed Rice",
+          "Aloo Paratha (2)",
+          "Curd"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Chicken Curry",
+          "Jeera Rice",
+          "Phulka (4)"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Sarson Ka Saag",
+          "Makki Ki Roti (3)",
+          "Gur"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Egg Curry",
+          "Jeera Rice",
+          "Phulka (4)"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Amritsari Chole",
+          "Bhatura (2)",
+          "Onion Salad"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Mutton Rogan Josh",
+          "Jeera Rice",
+          "Phulka (4)",
+          "Kheer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "name": "Saraswati Udupi Bhojan",
+    "cuisine": "Udupi",
+    "pricePerTiffin": 70,
+    "isVeg": true,
+    "rating": 4.6,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Huli",
+          "Steamed Rice",
+          "Palya",
+          "Saaru"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Vangi Bath",
+          "Curd Rice",
+          "Kosambari"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Majjige Huli",
+          "Steamed Rice",
+          "Beans Palya"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Puliyogare",
+          "Curd Rice",
+          "Happala"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Menthya Saaru",
+          "Steamed Rice",
+          "Cabbage Palya",
+          "Chapati (2)"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Akki Rotti (2)",
+          "Coconut Chutney",
+          "Kosambari"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Bisi Bele Bath",
+          "Kesari Bath",
+          "Curd Rice",
+          "Happala"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "name": "Nawabi Handi",
+    "cuisine": "Hyderabadi",
+    "pricePerTiffin": 180,
+    "isVeg": false,
+    "rating": 4.8,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Chicken Dum Biryani",
+          "Mirchi Ka Salan",
+          "Raita"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Khatti Dal",
+          "Steamed Rice",
+          "Bagara Baingan"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Mutton Dalcha",
+          "Bagara Rice",
+          "Onion Raita"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Chicken 65",
+          "Tomato Dal",
+          "Steamed Rice"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Egg Biryani",
+          "Mirchi Ka Salan",
+          "Raita"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Haleem",
+          "Sheermal",
+          "Onion Salad"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Mutton Dum Biryani",
+          "Mirchi Ka Salan",
+          "Double Ka Meetha",
+          "Raita"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "name": "Aaji's Marathi Kitchen",
+    "cuisine": "Maharashtrian",
+    "pricePerTiffin": 100,
+    "isVeg": true,
+    "rating": 4.4,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Varan Bhaat",
+          "Batata Bhaji",
+          "Chapati (3)",
+          "Koshimbir"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Pithla",
+          "Bhakri (2)",
+          "Thecha"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Usal",
+          "Pav (2)",
+          "Farsan"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Amti",
+          "Steamed Rice",
+          "Bharli Vangi",
+          "Chapati (3)"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Masale Bhaat",
+          "Kadhi",
+          "Papad"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Sabudana Khichdi",
+          "Curd",
+          "Banana"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Puran Poli (2)",
+          "Katachi Amti",
+          "Batata Bhaji",
+          "Steamed Rice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "name": "Fernandes Family Kitchen",
+    "cuisine": "Goan",
+    "pricePerTiffin": 170,
+    "isVeg": false,
+    "rating": 4.1,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Goan Fish Curry",
+          "Steamed Rice",
+          "Kismur"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Chicken Xacuti",
+          "Poi (2)",
+          "Kokum Kadhi"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Dal",
+          "Steamed Rice",
+          "Prawn Rawa Fry"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Pork Vindaloo",
+          "Steamed Rice",
+          "Cabbage Foogath"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Prawn Balchão",
+          "Steamed Rice",
+          "Bhindi Foogath"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Chicken Cafreal",
+          "Poi (2)",
+          "Salad"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Sorpotel",
+          "Sannas (3)",
+          "Bebinca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "name": "Rajwada Rasoi",
+    "cuisine": "Rajasthani",
+    "pricePerTiffin": 120,
+    "isVeg": true,
+    "rating": 4.3,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Dal Baati (3)",
+          "Churma",
+          "Lahsun Chutney"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Gatte Ki Sabzi",
+          "Steamed Rice",
+          "Phulka (4)"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Ker Sangri",
+          "Bajra Roti (3)",
+          "Kadhi"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Panchmel Dal",
+          "Jeera Rice",
+          "Aloo Pyaaz Sabzi"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Papad Ki Sabzi",
+          "Missi Roti (3)",
+          "Boondi Raita"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Rajasthani Kadhi",
+          "Steamed Rice",
+          "Bhindi Fry"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Dal Baati (3)",
+          "Churma",
+          "Gatte Pulao",
+          "Moong Dal Halwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "name": "Odia Ghara Khana",
+    "cuisine": "Odia",
+    "pricePerTiffin": 65,
+    "isVeg": false,
+    "rating": 4.0,
+    "weeklyMenu": [
+      {
+        "day": "Monday",
+        "dishes": [
+          "Dalma",
+          "Steamed Rice",
+          "Saga Bhaja"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "dishes": [
+          "Pakhala",
+          "Badi Chura",
+          "Aloo Bharta",
+          "Fish Fry"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "dishes": [
+          "Steamed Rice",
+          "Machha Besara",
+          "Dalma"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "dishes": [
+          "Steamed Rice",
+          "Santula",
+          "Dahi Baigana"
+        ]
+      },
+      {
+        "day": "Friday",
+        "dishes": [
+          "Steamed Rice",
+          "Egg Curry",
+          "Moong Dal"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "dishes": [
+          "Steamed Rice",
+          "Kanika",
+          "Ghanta Tarkari"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "dishes": [
+          "Steamed Rice",
+          "Mutton Kasa",
+          "Dalma",
+          "Chhena Poda"
+        ]
+      }
+    ]
+  }
+]
